@@ -20,7 +20,10 @@ Here I will explain the code structure and how it is organiszed. This will help 
 I have provided an overview of the results of my project, including the relevant metrics and graphs, including a short expalnations of any evaluation methodlogies and how they were used.
 
 # Related project and dataset
+
 Task1.ipynb is releated with the tested.csv data where I have builded  a model that predicts whether a passanger on Titanic survived or not
+
 Task_3.ipynb is related with the IRIS.csv dataset where I have builded a model that can learn from the measurements and accurately classify the Iris flowers into their respective species
+
 Task_4.ipynb is related with the advertising.csv where I forecasted the amount of a product that customers will purchase taking various factors
 
