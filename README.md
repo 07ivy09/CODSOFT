@@ -1,5 +1,5 @@
 # CODSOFT
-I include all the necessary dependencies needed to reproduce thr project. so that the reader can install them before replicating the project.
+I include all the necessary dependencies needed to reproduce thr project, so that the reader can install them before replicating the project.
 The crucial part of any data science project is dataset which I got from the task given by the company (CODSOFT). The list of all the data sources used in all these projects, including links to the original data, descriptions an dany pre-processing steps that were taken.
 # Source Data
 I listed of the data that was used along with the source link and added a few lines to describe the data
